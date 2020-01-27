@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NewsletterUtil": {
+      "commandName": "Project",
+      "commandLineArgs": "linklist -i \"links.txt\" -o \"../../../links.md\""
+    }
+  }
+}
